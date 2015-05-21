@@ -1,0 +1,1 @@
+To search list of members and add new name, telephone numbers the remove the list, view all list details to be display
